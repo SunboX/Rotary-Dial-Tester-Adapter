@@ -1,0 +1,1 @@
+# W48_W49_Nummernschalter_Adapter
