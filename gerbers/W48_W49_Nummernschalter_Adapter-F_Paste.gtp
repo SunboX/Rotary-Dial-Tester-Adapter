@@ -1,0 +1,24 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.3*%
+%TF.CreationDate,2024-06-22T21:50:30+02:00*%
+%TF.ProjectId,W48_W49_Nummernschalter_Adapter,5734385f-5734-4395-9f4e-756d6d65726e,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.3) date 2024-06-22 21:50:30*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.846667X3.480000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J1*%
+X124460000Y-49000000D03*
+X127230000Y-49000000D03*
+X130000000Y-49000000D03*
+X132770000Y-49000000D03*
+X135540000Y-49000000D03*
+%TD*%
+M02*
