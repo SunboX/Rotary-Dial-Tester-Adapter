@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,DSUB-9_Female_EdgeMount_P2.77mm,1,DE9_Receptacle,
+"J2, J3, J4, J5",KEYSTONE_7770,4,7770,
+J6,PinSocket_1x04_P2.54mm_Vertical,1,Conn_01x04_Pin,
+"TP1, TP2, TP3, TP4",TestPoint_Pad_3.0x3.0mm,4,TestPoint,
