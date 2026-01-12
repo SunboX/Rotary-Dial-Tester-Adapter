@@ -33,7 +33,6 @@
       "footprint_text",
       "footprint_anchors",
       "ratsnest",
-      "grid",
       "footprints_front",
       "footprints_back",
       "footprint_values",
@@ -59,7 +58,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "W48_W49_Nummernschalter_Adapter.kicad_prl",
+    "filename": "Rotary-Dial-Tester-Adapter.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
