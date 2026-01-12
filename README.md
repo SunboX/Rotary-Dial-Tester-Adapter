@@ -8,6 +8,7 @@ A small connector/adapter for testing vintage rotary dials (e.g., W48/W49) on a 
 - DB9 RS232 interface for USB serial adapters
 - Color-coded screw terminals (GE/GR/BR/WE)
 - 4-pin connector for a cable harness
+- Tested and working with: DIGITUS USB auf Seriell Adapter - RS232 Konverter - USB 2.0 Typ-C zu DSUB 9M - FTDI FT232RL Chipsatz - 1 m Anschlusskabel (https://www.amazon.de/dp/B07917RBBJ)
 
 ## Wiring
 Use either the screw terminals or the 4-pin connector. The wiring diagram below shows the pin mapping.
