@@ -1,6 +1,6 @@
 # Rotary Dial Tester Adapter
 
-A small connector/adapter for testing vintage rotary dials (e.g., W48/W49) on a computer. It connects via DB9 RS232 (use an RS232-to-USB adapter) and provides both color-coded screw terminals (GE/GR/BR/WE) and a 4-pin connector for the dial wiring.
+A small connector/adapter for testing vintage rotary dials (e.g., W48/W49) on a computer. It connects via DB9 RS232 (use an RS232-to-USB adapter) and provides both color-coded screw terminals (GE/GR/BR/WE) and a 4-pin connector for the dial wiring. This repository contains the KiCad project files.
 
 ![Rotary dial tester adapter setup](pictures/setup-rotary-dial-and-adapter.jpg)
 
