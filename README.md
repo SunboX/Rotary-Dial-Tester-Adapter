@@ -10,6 +10,10 @@ A small connector/adapter for testing vintage rotary dials (e.g., W48/W49) on a 
 - 4-pin connector for a cable harness
 - Tested and working with: DIGITUS USB auf Seriell Adapter - RS232 Konverter - USB 2.0 Typ-C zu DSUB 9M - FTDI FT232RL Chipsatz - 1 m Anschlusskabel (https://www.amazon.de/dp/B07917RBBJ)
 
+## Wooden base (CNC)
+- Estlcam project: `adapter-wooden-base/Adapter_Base.E12`
+- Estlcam is a CAM and CNC control program; offers inexpensive USB control hardware.
+
 ## Wiring
 Use either the screw terminals or the 4-pin connector. The wiring diagram below shows the pin mapping.
 
