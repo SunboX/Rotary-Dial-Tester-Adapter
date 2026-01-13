@@ -12,7 +12,16 @@ A small connector/adapter for testing vintage rotary dials (e.g., W48/W49) on a 
 
 ## Wooden base (CNC)
 - Estlcam project: `adapter-wooden-base/Adapter_Base.E12`
-- Estlcam is a CAM and CNC control program; offers inexpensive USB control hardware.
+- Estlcam is a CAM and CNC control program; offers inexpensive USB control hardware and easy control via gamepads, handwheel pendants, keyboard, and mouse.
+
+## Required materials
+- 18 mm wood for the base
+- 4x brass wood screws, DIN 96 pan head, slotted, 3 mm x 8 mm
+- 4x Keystone Electronics screw terminal 7698-SEMS, M3
+- 4x brass knurled screws, M3 x 6 x 9.5
+- Adhesive dot set, 5 mm foil K020 (yellow, green, brown, white)
+- 4x Wittkower solder terminal, 2.8 mm flat tab, straight, for PCB mounting
+- 1x Wurth Elektronik 61800929321, D-SUB receptacle, 9-position, vertical solder
 
 ## Wiring
 Use either the screw terminals or the 4-pin connector. The wiring diagram below shows the pin mapping.
