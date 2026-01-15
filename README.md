@@ -28,6 +28,16 @@ Use either the screw terminals or the 4-pin connector. The wiring diagram below 
 
 ![Wiring diagram](pictures/wiring-diagram.png)
 
+### Pinout
+- NSI (DCD) -> Yellow (GE) -> SUB-D pin 1
+- RTS (common, high) -> Green (GR) + Brown (BR) tied together -> SUB-D pins 2 + 3
+- NSA (NSA) -> White (WE) -> SUB-D pin 4
+- NSR (DSR) is not connected on this board
+
+NSR (DSR) is the dial’s off-normal/rest contact. It is closed at rest and opens when the dial starts, which can be used to detect start/end of dialing or to mute the speech path during dialing. For simple pulse counting, NSI (DCD) and optionally NSA (RI) are sufficient; if your dial needs NSR, you will need to rewire or modify the adapter.
+
+Non-German rotary dials can be wired differently (e.g., 3-wire Ericsson or some US variants). If your dial needs NSR/DSR, you will need to rewire or modify the adapter, since only DCD/NSI and RI/NSA are routed.
+
 ## Web-based Rotary Dial Tester
 Project: https://github.com/SunboX/Rotary-Dial-Tester (live: https://rotary-dial-tester.com/)
 
