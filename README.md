@@ -51,3 +51,8 @@ Project: https://github.com/SunboX/Rotary-Dial-Tester (live: https://rotary-dial
 ## Photos
 ![Adapter top view](pictures/adapter-top-view.jpg)
 ![Adapter RS232 angle view](pictures/adapter-rs232-angle.jpg)
+
+## License
+This repository is licensed under PolyForm Noncommercial 1.0.0.
+See `LICENSE` for the full license text and `NOTICE` for the
+required notices that must accompany redistribution.
